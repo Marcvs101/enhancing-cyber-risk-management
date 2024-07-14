@@ -11,7 +11,7 @@ I am still reorganizing all the relevant repositories and pushing code where nee
 
 ### Validation and filtering of false positives in the vulnerability inventory, graph algorithm, IEEE CSR 2024 submission:
 
-[https://github.com/ds-square/CVE-Validator](https://github.com/ds-square/CVE-Search-Validator)
+[https://github.com/ds-square/CVE-Search-Validator](https://github.com/ds-square/CVE-Search-Validator)
 
 
 ### Attack graph aggrgegation and filtering, CRiSIS 2024 submission:
