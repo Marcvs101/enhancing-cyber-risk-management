@@ -1,4 +1,4 @@
-# enhancing-cyber-risk-management
+# Enhancing Cyber Risk Management
 Master repository of everything related to my PhD thesis
 
 I am still reorganizing all the relevant repositories and pushing code where needed.
